@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET core, Rest API ,Design Pattern , SQL server**
 
-- 💬 Ask me about **ASP .NET core , DSA , SQL server , Design pattern and principle**
+- 💬 Ask me about **DSA, ASP .NET core , SQL server , OOP , Design pattern and principle**
 
 - 📫 How to reach me **tasdid.alam2001@gmail.com**
 
