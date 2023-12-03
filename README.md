@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Design Pattern & principle ,Clean & maintainable code , optimized query ,software engineering good practice**
 
-- 💬 Ask me about **DSA, ASP .NET core , SQL server , OOP , Design pattern and principle , RESt API , EF core , Dapper**
+- 💬 Ask me about **DSA, ASP .NET core , SQL server , OOP , Design pattern and principle , REST API , EF core , Dapper**
  ,
 - 📫 How to reach me **tasdid.alam2001@gmail.com**
 
