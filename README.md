@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tasdid Alam</h1>
+<h1 align="center">Hi 👋, I'm Tasdid Alam - Software Engineer</h1>
 <h3 align="center">Ready to deep dive into software engineering.</h3>
 
-- 🌱 I’m currently learning **Design pattern & principle ,Clean & maintainable code , Query Optimization ,software engineering good practice**
+- 🌱 I’m currently learning **Design Patterns & Principles, Clean & Maintainable Code, Query Optimization, Software Engineering Best Practices**
 
 - 💬 Ask me about **.NET EcoSystem, C#, SQL SERVER, Design Principles and Patterns, CLean Architecture, Docker, React**
  ,
