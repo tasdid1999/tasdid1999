@@ -100,10 +100,7 @@ Software engineer with **2.5+ years of experience** designing and shipping backe
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tasdid1999&show_icons=true&theme=default&count_private=true" alt="Tasdid's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasdid1999&layout=compact&locale=en" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasdid1999&theme=default" alt="GitHub Streak" />
